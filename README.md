@@ -39,7 +39,7 @@ Spend by Vendor
 Top 10 Purchase Orders
 
 Screenshot:
-<insert image link here once uploaded>
+![Page 1](page2.png)
 
 Page 3 — Labor Analysis Dashboard
 
@@ -56,7 +56,7 @@ Department Mix of Hours
 Monthly Overtime Trend
 
 Screenshot:
-<insert image link here once uploaded>
+![Page 1](page3.png)
 
 Tools and Methods Used
 
