@@ -20,7 +20,7 @@ Revenue vs Actual Cost
 Year-to-Date Cumulative Spend Trend
 
 Screenshot:
-(https://github.com/menefee28/Financial-Analysis-Project/blob/main/Executive%20Financial%20Summary)
+Screenshot 2025-11-22 153836.png
 
 Page 2 — Material Spend Dashboard
 
