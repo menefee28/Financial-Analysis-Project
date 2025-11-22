@@ -20,7 +20,7 @@ Revenue vs Actual Cost
 Year-to-Date Cumulative Spend Trend
 
 Screenshot:
-![Page 1](Screenshot 2025-11-22 153836.png)
+![Page 1](page1.png)
 
 Page 2 — Material Spend Dashboard
 
