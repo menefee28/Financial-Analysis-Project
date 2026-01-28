@@ -58,7 +58,7 @@ Monthly Overtime Trend
 Screenshot:
 ![Page 1](page3.png)
 
-Tools and Methods Used
+Tools and Methods Used:
 
 Microsoft Excel
 
@@ -72,17 +72,7 @@ Custom KPIs and formulas
 
 Professional chart formatting and layout
 
-How to Use
-
-Download the Excel file from the dashboards/ folder.
-
-Open the workbook and enable PivotTables, slicers, and data connections.
-
-Navigate through each dashboard to analyze costs, trends, and KPIs.
-
-Filter using slicers to explore different programs, categories, vendors, or departments.
-
-Author
+Author:
 
 Sean
 Business Information Systems student with interests in financial analysis, operations, and data-driven reporting.
